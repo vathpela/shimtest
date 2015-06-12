@@ -1,0 +1,8 @@
+[shimtest]
+name=shimtest
+failovermethod=priority
+baseurl=http://cutlet.install.bos.redhat.com/pub/devel/pjones/shimtest/
+enabled=1
+gpgcheck=1
+gpgkey=http://cutlet.install.bos.redhat.com/pub/devel/pjones/shimtest/pjones.gpg
+skip_if_unavailable=0
